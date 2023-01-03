@@ -203,7 +203,7 @@ section:target {
     text-decoration-style: ;
 }
 #education-img{
-    background-image: url("image/book-with-green.jpg");
+    background-image: cyan;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative
